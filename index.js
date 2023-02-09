@@ -18,26 +18,26 @@ function makeSound(key) {
 
     switch (key) {
       case "k":
-        var cat = new Audio("sounds/kitty.wav");
+        var cat = new Audio("./kitty.wav");
         cat.play();
         break;
       case "s":{
-        var sheep=new Audio("sounds/sheep.wav");
+        var sheep=new Audio("./sheep.wav");
         sheep.play();
         break;
       }
       case "d":
-        var dog=new Audio("sounds/dog.wav");
+        var dog=new Audio("./dog.wav");
         dog.play();
         break;
       
       case "h":
-        var horse=new Audio("sounds/horse.wav");
+        var horse=new Audio("./horse.wav");
         horse.play();
         break;
       
       case "c":{
-        var cow=new Audio("sounds/cow.wav");
+        var cow=new Audio("./cow.wav");
         cow.play();
         break;
       }
