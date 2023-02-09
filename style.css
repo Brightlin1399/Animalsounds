@@ -1,0 +1,58 @@
+body{
+    
+    text-align: center;
+    
+    background-color:azure ;
+}
+button{
+    display:inline-block;
+    font-size: 2rem;
+    width: 150px;
+    height: 150px;
+    font-weight: 600;
+    margin: 10px;
+    background-color: white;
+    border-radius: 15px;
+    border: 10px solid #404B69;
+
+    
+    
+
+    
+}
+h1{
+    padding-bottom: 50px;
+    font-size: 3rem;
+    color:blueviolet;
+   font-family: "Arvo", cursive;
+}
+.s{
+    background-image:url("images/sheep.jpg") ;
+    background-size: cover;
+
+}
+.d{
+    background-image:url("images/dog.jpg") ;
+    background-size: cover;
+
+}
+.c{
+    background-image:url("images/cow.jpg") ;
+    background-size: cover;
+    
+
+}
+.k{
+    background-image:url("images/cat.jpg") ;
+    background-size: cover;
+
+}
+.h{
+    background-image:url("images/horse.jpg") ;
+    background-size: cover;
+
+}
+.pressed{
+    opacity: 0.5;
+    
+}
