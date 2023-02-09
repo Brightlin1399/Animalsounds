@@ -27,28 +27,28 @@ h1{
    font-family: "Arvo", cursive;
 }
 .s{
-    background-image:url("images/sheep.jpg") ;
+    background-image:url("./sheep.jpg") ;
     background-size: cover;
 
 }
 .d{
-    background-image:url("images/dog.jpg") ;
+    background-image:url("./dog.jpg") ;
     background-size: cover;
 
 }
 .c{
-    background-image:url("images/cow.jpg") ;
+    background-image:url("./cow.jpg") ;
     background-size: cover;
     
 
 }
 .k{
-    background-image:url("images/cat.jpg") ;
+    background-image:url("./cat.jpg") ;
     background-size: cover;
 
 }
 .h{
-    background-image:url("images/horse.jpg") ;
+    background-image:url("./horse.jpg") ;
     background-size: cover;
 
 }
